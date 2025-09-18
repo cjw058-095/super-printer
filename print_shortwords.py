@@ -1,3 +1,3 @@
 print("I")
 print("a")
-print("")
+print("m")
