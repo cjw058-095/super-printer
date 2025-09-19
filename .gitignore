@@ -1,0 +1,16 @@
+secrets.txt
+*.txt
+
+#virtual environment
+.venv/
+venv/
+#environment variables
+
+env/
+.env/
+#Python cache files
+
+.DS_store
+# 
+__pycache__
+.idea
